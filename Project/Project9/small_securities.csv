@@ -1,0 +1,19 @@
+Ticker symbol,Security,SEC filings,GICS Sector,GICS Sub Industry,Address of Headquarters,Date first added,CIK
+MMM,3M Company,reports,Industrials,Industrial Conglomerates,"St. Paul, Minnesota",,66740
+ABT,Abbott Laboratories,reports,Health Care,Health Care Equipment,"North Chicago, Illinois",3/31/64,1800
+ABBV,AbbVie,reports,Health Care,Pharmaceuticals,"North Chicago, Illinois",12/31/12,1551152
+ACN,Accenture plc,reports,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",7/6/11,1467373
+ATVI,Activision Blizzard,reports,Information Technology,Home Entertainment Software,"Santa Monica, California",8/31/15,718877
+AME,AMETEK Inc,reports,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",9/23/13,1037868
+AMGN,Amgen Inc,reports,Health Care,Biotechnology,"Thousand Oaks, California",1/2/92,318154
+WYNN,Wynn Resorts Ltd,reports,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",11/14/08,1174922
+XEL,Xcel Energy Inc,reports,Utilities,MultiUtilities,"Minneapolis, Minnesota",,72903
+XRX,Xerox Corp.,reports,Information Technology,IT Consulting & Other Services,"Norwalk, Connecticut",,108772
+XLNX,Xilinx Inc,reports,Information Technology,Semiconductors,"San Jose, California",,743988
+XL,XL Capital,reports,Financials,Property & Casualty Insurance,"Hamilton, Bermuda",,875159
+XYL,Xylem Inc.,reports,Industrials,Industrial Conglomerates,"White Plains, New York",11/1/11,1524472
+YHOO,Yahoo Inc.,reports,Information Technology,Internet Software & Services,"Sunnyvale, California",,1011006
+YUM,Yum! Brands Inc,reports,Consumer Discretionary,Restaurants,"Louisville, Kentucky",10/6/97,1041061
+ZBH,Zimmer Biomet Holdings,reports,Health Care,Health Care Equipment,"Warsaw, Indiana",,1136869
+ZION,Zions Bancorp,reports,Financials,Regional Banks,"Salt Lake City, Utah",,109380
+ZTS,Zoetis,reports,Health Care,Pharmaceuticals,"Florham Park, New Jersey",6/21/13,1555280
